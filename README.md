@@ -1,4 +1,4 @@
-My name is **Sirine Zanina**. I'm a full-stack engineer who likes building end-to-end products — from pixel to database.
+My name is **Sirine Zanina**. I'm a software engineer, passionate about building secure systems and automation.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SirineZanina&theme=dark&show_icons=true">
