@@ -6,11 +6,11 @@ My name is **Sirine Zanina**. I'm a software engineer, passionate about building
 </picture>
 
 -   :pencil2: TypeScript / Java / Kotlin / Python / Go
--   :art: React / Next.js / Vite / Tailwind CSS / Three.js / Zustand / TanStack Query
--   :gear: Spring Boot / FastAPI / Go (Gin) / Node — PostgreSQL / Prisma / Redis / RabbitMQ / MinIO / Docker
+-   :art: React / Next.js / Vite / Tailwind CSS / Zustand / TanStack Query
+-   :gear: Spring Boot / FastAPI / Go (Gin) / PostgreSQL / Prisma / Redis / RabbitMQ / Docker
 -   :iphone: Android with Kotlin, Jetpack Compose & Hilt
--   :seedling: Always learning — currently digging into distributed systems & low-level programming.
--   :package: [Arch Linux](https://archlinux.org/) / [zen kernel](https://github.com/zen-kernel/zen-kernel) / [niri](https://github.com/YaLTeR/niri) / [neovim](https://neovim.io/)
+-   :seedling: Always learning, currently digging into distributed systems & low-level programming.
+-   :package: Btw I use arch. [Arch Linux](https://archlinux.org/) / [zen kernel](https://github.com/zen-kernel/zen-kernel) / [niri](https://github.com/YaLTeR/niri) / [neovim](https://neovim.io/)
 
 ---
 
