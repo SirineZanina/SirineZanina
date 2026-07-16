@@ -14,7 +14,7 @@ My name is **Sirine Zanina**. I'm a software engineer, passionate about building
 
 ---
 
-### :bar_chart: Coding time in the last month
+### :stopwatch: Coding Stats
 
 <!--START_SECTION:waka-->
 
