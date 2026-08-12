@@ -10,7 +10,6 @@ My name is **Sirine Zanina**. I'm a software engineer, passionate about building
 - :gear: Spring Boot / FastAPI / Go (Gin) / PostgreSQL / Prisma / Redis / RabbitMQ / Docker
 - :iphone: Android with Kotlin, Jetpack Compose & Hilt
 - :seedling: Always learning, currently digging into building ci/cd pipelines.
-- :package: Linux user btw. [Arch Linux](https://archlinux.org/) / [zen kernel](https://github.com/zen-kernel/zen-kernel) / [niri](https://github.com/YaLTeR/niri) / [neovim](https://neovim.io/)
 
 ---
 
