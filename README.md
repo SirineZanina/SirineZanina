@@ -1,15 +1,10 @@
-My name is **Sirine Zanina**. I'm a software engineer, passionate about building secure systems and automation.
+Hi, I’m Nines, a telecommunications engineering student focused on security engineering.
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-topaz-phi-60.vercel.app/api?username=SirineZanina&theme=dark&show_icons=true&cache_seconds=86400">
-    <img align="right" width="50%" src="https://github-readme-stats-topaz-phi-60.vercel.app/api?username=SirineZanina&show_icons=true&cache_seconds=86400">
-</picture>
+I’ve built web and mobile applications, but I’m most drawn to what happens underneath: low-level systems, how things work at the metal, and how they break.
 
-- :pencil2: TypeScript / Java / Kotlin / Python / Go
-- :art: React / Next.js / Vite / Tailwind CSS / Zustand / TanStack Query
-- :gear: Spring Boot / FastAPI / Go (Gin) / PostgreSQL / Prisma / Redis / RabbitMQ / Docker
-- :iphone: Android with Kotlin, Jetpack Compose & Hilt
-- :seedling: Always learning, currently digging into building ci/cd pipelines.
+Interests: cybersecurity · cryptography · machine learning · low-level systems
+
+Currently exploring: linux internals and kubernetes.
 
 ---
 
