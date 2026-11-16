@@ -1,10 +1,8 @@
-Hi, I’m Nines, a telecommunications engineering student focused on security engineering.
+Hi, I’m Nines, a security engineer currently studying telecommunications engineering.
 
-I’ve built web and mobile applications, but I’m most drawn to what happens underneath: low-level systems, how things work at the metal, and how they break.
+I’ve built web and mobile applications, but I’ve always been drawn to low-level systems and tinkering with how things work under the hood.
 
-Interests: cybersecurity · cryptography · machine learning · low-level systems
-
-Currently exploring: linux internals and kubernetes.
+My main interests are cybersecurity, cryptography, and machine learning.
 
 ---
 
